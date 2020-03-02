@@ -1,0 +1,581 @@
+  {
+    "comments": [
+        {
+            "_id": "H4uiv9uNsBX-jA",
+            "channel_id": "137512364",
+            "commenter": {
+                "_id": "61845753",
+                "bio": null,
+                "created_at": "2014-04-30T01:08:55.326739Z",
+                "display_name": "seaskythe",
+                "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png",
+                "name": "seaskythe",
+                "type": "user",
+                "updated_at": "2019-09-29T05:34:53.82089Z"
+            },
+            "content_id": "451603129",
+            "content_offset_seconds": 0,
+            "content_type": "video",
+            "created_at": "2019-07-12T04:17:23.928246272Z",
+            "message": {
+                "body": "PLEASE BE A FAIR MATCH, to get more hours of tokens",
+                "fragments": [
+                    {
+                        "text": "PLEASE BE A FAIR MATCH, to get more hours of tokens"
+                    }
+                ],
+                "is_action": false,
+                "user_badges": [
+                    {
+                        "_id": "premium",
+                        "version": "1"
+                    }
+                ]
+            },
+            "more_replies": false,
+            "source": "chat",
+            "state": "published",
+            "updated_at": "2019-07-12T04:17:23.928246272Z"
+        },
+        {
+            "_id": "GaCiv9uNsBWtIA",
+            "channel_id": "137512364",
+            "commenter": {
+                "_id": "107747880",
+                "bio": "Hey, I'm InfiniteSoul, known as Soul for short . I'm 18 years old from Florida, now living in Oregon, and currently the Projectile DPS for Actual One and currently a Diamond player (3250 peak).",
+                "created_at": "2015-11-22T17:52:07.009421Z",
+                "display_name": "InfiniteSoulOW",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/1414b8b4-5f09-4507-99af-211e9f0632d1-profile_image-300x300.jpeg",
+                "name": "infinitesoulow",
+                "type": "user",
+                "updated_at": "2019-10-22T01:40:56.41419Z"
+            },
+            "content_id": "451603129",
+            "content_offset_seconds": 1,
+            "content_type": "video",
+            "created_at": "2019-07-12T04:17:23.973304871Z",
+            "message": {
+                "body": "reward A Cheer shared Rewards to 10 others in Chat!",
+                "fragments": [
+                    {
+                        "text": "reward A Cheer shared Rewards to 10 others in Chat!"
+                    }
+                ],
+                "is_action": false,
+                "user_badges": [
+                    {
+                        "_id": "subscriber",
+                        "version": "0"
+                    },
+                    {
+                        "_id": "overwatch-league-insider_2019B",
+                        "version": "3"
+                    }
+                ],
+                "user_color": "#FF0000"
+            },
+            "more_replies": false,
+            "source": "chat",
+            "state": "published",
+            "updated_at": "2019-07-12T04:17:23.973304871Z"
+        },
+        {
+            "_id": "xaiiv9uNsBXAeA",
+            "channel_id": "137512364",
+            "commenter": {
+                "_id": "231200855",
+                "bio": null,
+                "created_at": "2018-06-13T18:09:13.670651Z",
+                "display_name": "thesecondusername",
+                "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/294c98b5-e34d-42cd-a8f0-140b72fba9b0-profile_image-300x300.png",
+                "name": "thesecondusername",
+                "type": "user",
+                "updated_at": "2019-10-10T02:04:09.428785Z"
+            },
+            "content_id": "451603129",
+            "content_offset_seconds": 2,
+            "content_type": "video",
+            "created_at": "2019-07-12T04:17:24.021981947Z",
+            "message": {
+                "body": "this will be close, for sure.",
+                "fragments": [
+                    {
+                        "text": "this will be close, for sure."
+                    }
+                ],
+                "is_action": false,
+                "user_badges": [
+                    {
+                        "_id": "premium",
+                        "version": "1"
+                    }
+                ]
+            },
+            "more_replies": false,
+            "source": "chat",
+            "state": "published",
+            "updated_at": "2019-07-12T04:17:24.021981947Z"
+        },
+        {
+            "_id": "-LGiv9uNsBVIXA",
+            "channel_id": "137512364",
+            "commenter": {
+                "_id": "180659882",
+                "bio": null,
+                "created_at": "2017-11-06T00:54:57.665102Z",
+                "display_name": "Mai_Creationz",
+                "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/49624b1b-ef3b-4729-9944-27454f4f67c7-profile_image-300x300.png",
+                "name": "mai_creationz",
+                "type": "user",
+                "updated_at": "2019-08-03T02:28:30.958393Z"
+            },
+            "content_id": "451603129",
+            "content_offset_seconds": 2,
+            "content_type": "video",
+            "created_at": "2019-07-12T04:17:24.062932777Z",
+            "message": {
+                "body": "ooo",
+                "fragments": [
+                    {
+                        "text": "ooo"
+                    }
+                ],
+                "is_action": false,
+                "user_badges": [
+                    {
+                        "_id": "premium",
+                        "version": "1"
+                    }
+                ],
+                "user_color": "#8A2BE2"
+            },
+            "more_replies": false,
+            "source": "chat",
+            "state": "published",
+            "updated_at": "2019-07-12T04:17:24.062932777Z"
+        },
+        {
+            "_id": "H4uiv9uNsBX-jA",
+            "channel_id": "137512364",
+            "commenter": {
+                "_id": "61845753",
+                "bio": null,
+                "created_at": "2014-04-30T01:08:55.326739Z",
+                "display_name": "seaskythe",
+                "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png",
+                "name": "seaskythe",
+                "type": "user",
+                "updated_at": "2019-09-29T05:34:53.82089Z"
+            },
+            "content_id": "451603129",
+            "content_offset_seconds": 0,
+            "content_type": "video",
+            "created_at": "2019-07-12T04:17:23.928246272Z",
+            "message": {
+                "body": "PLEASE BE A FAIR MATCH, to get more hours of tokens",
+                "fragments": [
+                    {
+                        "text": "PLEASE BE A FAIR MATCH, to get more hours of tokens"
+                    }
+                ],
+                "is_action": false,
+                "user_badges": [
+                    {
+                        "_id": "premium",
+                        "version": "1"
+                    }
+                ]
+            },
+            "more_replies": false,
+            "source": "chat",
+            "state": "published",
+            "updated_at": "2019-07-12T04:17:23.928246272Z"
+        },
+        {
+            "_id": "H4uiv9uNsBX-jA",
+            "channel_id": "137512364",
+            "commenter": {
+                "_id": "61845753",
+                "bio": null,
+                "created_at": "2014-04-30T01:08:55.326739Z",
+                "display_name": "seaskythe",
+                "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png",
+                "name": "seaskythe",
+                "type": "user",
+                "updated_at": "2019-09-29T05:34:53.82089Z"
+            },
+            "content_id": "451603129",
+            "content_offset_seconds": 0,
+            "content_type": "video",
+            "created_at": "2019-07-12T04:17:23.928246272Z",
+            "message": {
+                "body": "PLEASE BE A FAIR MATCH, to get more hours of tokens",
+                "fragments": [
+                    {
+                        "text": "PLEASE BE A FAIR MATCH, to get more hours of tokens"
+                    }
+                ],
+                "is_action": false,
+                "user_badges": [
+                    {
+                        "_id": "premium",
+                        "version": "1"
+                    }
+                ]
+            },
+            "more_replies": false,
+            "source": "chat",
+            "state": "published",
+            "updated_at": "2019-07-12T04:17:23.928246272Z"
+        },
+        {
+            "_id": "H4uiv9uNsBX-jA",
+            "channel_id": "137512364",
+            "commenter": {
+                "_id": "61845753",
+                "bio": null,
+                "created_at": "2014-04-30T01:08:55.326739Z",
+                "display_name": "seaskythe",
+                "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png",
+                "name": "seaskythe",
+                "type": "user",
+                "updated_at": "2019-09-29T05:34:53.82089Z"
+            },
+            "content_id": "451603129",
+            "content_offset_seconds": 0,
+            "content_type": "video",
+            "created_at": "2019-07-12T04:17:23.928246272Z",
+            "message": {
+                "body": "PLEASE BE A FAIR MATCH, to get more hours of tokens",
+                "fragments": [
+                    {
+                        "text": "PLEASE BE A FAIR MATCH, to get more hours of tokens"
+                    }
+                ],
+                "is_action": false,
+                "user_badges": [
+                    {
+                        "_id": "premium",
+                        "version": "1"
+                    }
+                ]
+            },
+            "more_replies": false,
+            "source": "chat",
+            "state": "published",
+            "updated_at": "2019-07-12T04:17:23.928246272Z"
+        },
+        {
+            "_id": "H4uiv9uNsBX-jA",
+            "channel_id": "137512364",
+            "commenter": {
+                "_id": "61845753",
+                "bio": null,
+                "created_at": "2014-04-30T01:08:55.326739Z",
+                "display_name": "seaskythe",
+                "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png",
+                "name": "seaskythe",
+                "type": "user",
+                "updated_at": "2019-09-29T05:34:53.82089Z"
+            },
+            "content_id": "451603129",
+            "content_offset_seconds": 0,
+            "content_type": "video",
+            "created_at": "2019-07-12T04:17:23.928246272Z",
+            "message": {
+                "body": "PLEASE BE A FAIR MATCH, to get more hours of tokens",
+                "fragments": [
+                    {
+                        "text": "PLEASE BE A FAIR MATCH, to get more hours of tokens"
+                    }
+                ],
+                "is_action": false,
+                "user_badges": [
+                    {
+                        "_id": "premium",
+                        "version": "1"
+                    }
+                ]
+            },
+            "more_replies": false,
+            "source": "chat",
+            "state": "published",
+            "updated_at": "2019-07-12T04:17:23.928246272Z"
+        },
+        {
+            "_id": "H4uiv9uNsBX-jA",
+            "channel_id": "137512364",
+            "commenter": {
+                "_id": "61845753",
+                "bio": null,
+                "created_at": "2014-04-30T01:08:55.326739Z",
+                "display_name": "seaskythe",
+                "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png",
+                "name": "seaskythe",
+                "type": "user",
+                "updated_at": "2019-09-29T05:34:53.82089Z"
+            },
+            "content_id": "451603129",
+            "content_offset_seconds": 0,
+            "content_type": "video",
+            "created_at": "2019-07-12T04:17:23.928246272Z",
+            "message": {
+                "body": "PLEASE BE A FAIR MATCH, to get more hours of tokens",
+                "fragments": [
+                    {
+                        "text": "PLEASE BE A FAIR MATCH, to get more hours of tokens"
+                    }
+                ],
+                "is_action": false,
+                "user_badges": [
+                    {
+                        "_id": "premium",
+                        "version": "1"
+                    }
+                ]
+            },
+            "more_replies": false,
+            "source": "chat",
+            "state": "published",
+            "updated_at": "2019-07-12T04:17:23.928246272Z"
+        },
+        {
+            "_id": "H4uiv9uNsBX-jA",
+            "channel_id": "137512364",
+            "commenter": {
+                "_id": "61845753",
+                "bio": null,
+                "created_at": "2014-04-30T01:08:55.326739Z",
+                "display_name": "seaskythe",
+                "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png",
+                "name": "seaskythe",
+                "type": "user",
+                "updated_at": "2019-09-29T05:34:53.82089Z"
+            },
+            "content_id": "451603129",
+            "content_offset_seconds": 0,
+            "content_type": "video",
+            "created_at": "2019-07-12T04:17:23.928246272Z",
+            "message": {
+                "body": "PLEASE BE A FAIR MATCH, to get more hours of tokens",
+                "fragments": [
+                    {
+                        "text": "PLEASE BE A FAIR MATCH, to get more hours of tokens"
+                    }
+                ],
+                "is_action": false,
+                "user_badges": [
+                    {
+                        "_id": "premium",
+                        "version": "1"
+                    }
+                ]
+            },
+            "more_replies": false,
+            "source": "chat",
+            "state": "published",
+            "updated_at": "2019-07-12T04:17:23.928246272Z"
+        },
+        {
+            "_id": "H4uiv9uNsBX-jA",
+            "channel_id": "137512364",
+            "commenter": {
+                "_id": "61845753",
+                "bio": null,
+                "created_at": "2014-04-30T01:08:55.326739Z",
+                "display_name": "seaskythe",
+                "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png",
+                "name": "seaskythe",
+                "type": "user",
+                "updated_at": "2019-09-29T05:34:53.82089Z"
+            },
+            "content_id": "451603129",
+            "content_offset_seconds": 0,
+            "content_type": "video",
+            "created_at": "2019-07-12T04:17:23.928246272Z",
+            "message": {
+                "body": "PLEASE BE A FAIR MATCH, to get more hours of tokens",
+                "fragments": [
+                    {
+                        "text": "PLEASE BE A FAIR MATCH, to get more hours of tokens"
+                    }
+                ],
+                "is_action": false,
+                "user_badges": [
+                    {
+                        "_id": "premium",
+                        "version": "1"
+                    }
+                ]
+            },
+            "more_replies": false,
+            "source": "chat",
+            "state": "published",
+            "updated_at": "2019-07-12T04:17:23.928246272Z"
+        },
+        {
+            "_id": "H4uiv9uNsBX-jA",
+            "channel_id": "137512364",
+            "commenter": {
+                "_id": "61845753",
+                "bio": null,
+                "created_at": "2014-04-30T01:08:55.326739Z",
+                "display_name": "seaskythe",
+                "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png",
+                "name": "seaskythe",
+                "type": "user",
+                "updated_at": "2019-09-29T05:34:53.82089Z"
+            },
+            "content_id": "451603129",
+            "content_offset_seconds": 0,
+            "content_type": "video",
+            "created_at": "2019-07-12T04:17:23.928246272Z",
+            "message": {
+                "body": "PLEASE BE A FAIR MATCH, to get more hours of tokens",
+                "fragments": [
+                    {
+                        "text": "PLEASE BE A FAIR MATCH, to get more hours of tokens"
+                    }
+                ],
+                "is_action": false,
+                "user_badges": [
+                    {
+                        "_id": "premium",
+                        "version": "1"
+                    }
+                ]
+            },
+            "more_replies": false,
+            "source": "chat",
+            "state": "published",
+            "updated_at": "2019-07-12T04:17:23.928246272Z"
+        },
+        {
+            "_id": "H4uiv9uNsBX-jA",
+            "channel_id": "137512364",
+            "commenter": {
+                "_id": "61845753",
+                "bio": null,
+                "created_at": "2014-04-30T01:08:55.326739Z",
+                "display_name": "seaskythe",
+                "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png",
+                "name": "seaskythe",
+                "type": "user",
+                "updated_at": "2019-09-29T05:34:53.82089Z"
+            },
+            "content_id": "451603129",
+            "content_offset_seconds": 0,
+            "content_type": "video",
+            "created_at": "2019-07-12T04:17:23.928246272Z",
+            "message": {
+                "body": "PLEASE BE A FAIR MATCH, to get more hours of tokens",
+                "fragments": [
+                    {
+                        "text": "PLEASE BE A FAIR MATCH, to get more hours of tokens"
+                    }
+                ],
+                "is_action": false,
+                "user_badges": [
+                    {
+                        "_id": "premium",
+                        "version": "1"
+                    }
+                ]
+            },
+            "more_replies": false,
+            "source": "chat",
+            "state": "published",
+            "updated_at": "2019-07-12T04:17:23.928246272Z"
+        },
+        {
+            "_id": "H4uiv9uNsBX-jA",
+            "channel_id": "137512364",
+            "commenter": {
+                "_id": "61845753",
+                "bio": null,
+                "created_at": "2014-04-30T01:08:55.326739Z",
+                "display_name": "seaskythe",
+                "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png",
+                "name": "seaskythe",
+                "type": "user",
+                "updated_at": "2019-09-29T05:34:53.82089Z"
+            },
+            "content_id": "451603129",
+            "content_offset_seconds": 0,
+            "content_type": "video",
+            "created_at": "2019-07-12T04:17:23.928246272Z",
+            "message": {
+                "body": "PLEASE BE A FAIR MATCH, to get more hours of tokens",
+                "fragments": [
+                    {
+                        "text": "PLEASE BE A FAIR MATCH, to get more hours of tokens"
+                    }
+                ],
+                "is_action": false,
+                "user_badges": [
+                    {
+                        "_id": "premium",
+                        "version": "1"
+                    }
+                ]
+            },
+            "more_replies": false,
+            "source": "chat",
+            "state": "published",
+            "updated_at": "2019-07-12T04:17:23.928246272Z"
+        },
+        {
+            "_id": "H4uiv9uNsBX-jA",
+            "channel_id": "137512364",
+            "commenter": {
+                "_id": "61845753",
+                "bio": null,
+                "created_at": "2014-04-30T01:08:55.326739Z",
+                "display_name": "seaskythe",
+                "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/dbdc9198-def8-11e9-8681-784f43822e80-profile_image-300x300.png",
+                "name": "seaskythe",
+                "type": "user",
+                "updated_at": "2019-09-29T05:34:53.82089Z"
+            },
+            "content_id": "451603129",
+            "content_offset_seconds": 0,
+            "content_type": "video",
+            "created_at": "2019-07-12T04:17:23.928246272Z",
+            "message": {
+                "body": "PLEASE BE A FAIR MATCH, to get more hours of tokens",
+                "fragments": [
+                    {
+                        "text": "PLEASE BE A FAIR MATCH, to get more hours of tokens"
+                    }
+                ],
+                "is_action": false,
+                "user_badges": [
+                    {
+                        "_id": "premium",
+                        "version": "1"
+                    }
+                ]
+            },
+            "more_replies": false,
+            "source": "chat",
+            "state": "published",
+            "updated_at": "2019-07-12T04:17:23.928246272Z"
+        }
+      ],
+    "video": {
+          "created_at": "2019-07-12T04:13:27Z",
+          "description": "",
+          "duration": "1h40m21s",
+          "id": "451603129",
+          "language": "en",
+          "published_at": "2019-07-12T04:13:27Z",
+          "thumbnail_url": "https://static-cdn.jtvnw.net/s3_vods/f6344d6843f2d1dab08b_overwatchleague_10495933368_6052113282/thumb/custom-fd5be109-b3cb-4779-ae46-693f0399c3af-%{width}x%{height}.jpeg",
+          "title": "Full Match  Shanghai Dragons vs. New York Excelsior  Stage 3 Finals  Day 1",
+          "type": "highlight",
+          "url": "https://www.twitch.tv/videos/451603129",
+          "user_id": "137512364",
+          "user_name": "OverwatchLeague",
+          "view_count": 10719,
+          "viewable": "public"
+      }
+  }
